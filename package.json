@@ -1,0 +1,17 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "sub/pub",
+  "main": "Client1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Apple"
+  ],
+  "author": "shubhangi",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^2.9.0"
+  }
+}
